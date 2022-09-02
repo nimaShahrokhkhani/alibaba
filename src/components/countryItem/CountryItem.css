@@ -1,0 +1,30 @@
+.countryContainer {
+  margin: 20px;
+  border-radius: 5px;
+  background-color: white;
+  padding: 0 !important;
+  min-height: 420px;
+}
+
+.countryDetailContainer {
+  padding: 30px;
+}
+
+.countryName {
+  font-weight: bold;
+  font-size: medium;
+}
+
+.countryImage {
+  border-top-right-radius: 5px;
+  border-top-left-radius: 5px;
+}
+
+.countryTitle {
+  font-weight: bold;
+  font-size: small;
+}
+
+.countryValue {
+  font-size: small;
+}
